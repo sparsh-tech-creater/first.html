@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+    </html>
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title> From start</title>
+    </head>
+    <style>
+        body{
+            background-color: black;
+            font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+            color:rgb(189, 186, 23);
+            text-align: center;
+            margin-top: 25;
+       
+            }
+        h1 {
+                color: #034;
+                font-size: 56px;
+                text-align: middle;
+      
+        }
+        p{
+        font-size: 12px;
+        text-align: center; 
+            }
+        h3 {
+            font-size: 18px;
+            text-decoration-color: aqua;
+            color: purple
+        }
+</style>
+<body> 
+    <h1> Welcome Back </h1>
+    <h3> It's speedtech programmer which helps to learn programming from <b>zero</b> to <b>Pro</b> </h3>
+    <hr>
+    <h2> <u>This is a simple pro level (inline) HTML CSS</u></h2>
+    
+    <style>
+        h2{
+            color: red
+        }
+    </style>
+<p>If you are want to be programmer, then start with html.
+</p>
+<p>If you want to learn quickly go to chatgpt.</p>
+<div>
+    <p> Are you agree? say 'Yes' or 'No'</p>
+</div>
+<style> 
+    div{
+        border-color: aqua;
+
+    }
+</style>
+<br>
+<a href="https://chatgpt.com/"> Source for free </a>
+    </body>
+    </html>
